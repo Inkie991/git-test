@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\test_git\\test_git\\test_git.csproj",
+      "projectUniqueName": "C:\\Users\\user\\source\\repos\\New-Git\\git-test\\test_git\\test_git.csproj",
       "projectName": "test_git",
-      "projectPath": "C:\\Users\\user\\source\\repos\\test_git\\test_git\\test_git.csproj",
+      "projectPath": "C:\\Users\\user\\source\\repos\\New-Git\\git-test\\test_git\\test_git.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\test_git\\test_git\\obj\\",
+      "outputPath": "C:\\Users\\user\\source\\repos\\New-Git\\git-test\\test_git\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
